@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body,
+#app {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+a {
+  text-decoration: none;
+}
+
+.el-notification.xl-notice {
+  width: 500px;
+  background-color: rgba(51, 140, 255, 0.05);
+  backdrop-filter: blur(5px);
+  .el-notification__title,
+  .el-notification__content {
+    font-size: 24px;
+    font-family: SourceHanSansCN-Regular, SourceHanSansCN;
+    font-weight: 400;
+    color: #ffffff;
+  }
+  img {
+    width: 92px;
+    height: 55px;
+  }
+}

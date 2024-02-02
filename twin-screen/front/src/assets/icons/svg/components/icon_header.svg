@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="27px" viewBox="0 0 29 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <filter x="-38.9%" y="-40.0%" width="177.8%" height="180.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.211432927   0 0 0 0 0.538724451   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="技防社区" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="智慧技防-学校-监控" transform="translate(-33.000000, -146.000000)">
+            <g id="编组-4备份-7" filter="url(#filter-1)" transform="translate(37.846012, 149.638256)">
+                <rect id="矩形" fill="#D5E5FF" x="0" y="8.40632315" width="3.18735371" height="3.18735371"></rect>
+                <polygon id="矩形备份-31" fill="#D5E5FF" points="5.86246748 4.38482377 12.7268522 10.206679 5.86246748 15.6151762"></polygon>
+                <polygon id="路径" fill="#5797FF" fill-rule="nonzero" points="10.8921298 0 20.5553059 10.3526277 10.8621964 20 10.8775375 16.6845366 17.2982039 10.2925728 10.9130036 3.45035631"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

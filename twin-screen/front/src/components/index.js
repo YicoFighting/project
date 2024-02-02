@@ -1,0 +1,9 @@
+export { default as XlScreen } from "./xl-screen/index.vue";
+export { default as XlPixelStream } from "./xl-pixel-stream/index.vue";
+export { default as XlNavBar } from "./xl-nav-bar/index.vue";
+export { default as XlSvgIcon } from "./xl-svg-icon/index.vue";
+export { default as XlFooterMenu } from "./xl-footer-menu";
+export { default as XlModalPrevention } from "./xl-modal-prevention";
+export { default as XlEcharts } from "./xl-echarts";
+export { default as XlCountTo } from "./xl-count-to";
+export { default as XlNotice } from "./xl-notice";

@@ -1,0 +1,903 @@
+{
+  "社会面_车辆卡口": [],
+  "公安_其他": [],
+  "公安_车辆卡口": [
+    {
+      "type": "device",
+      "apeId": "device_110",
+      "deviceName": "弟兄酒家",
+      "latitude": "31.160628",
+      "longitude": "120.761877"
+    },
+    {
+      "type": "device",
+      "apeId": "device_111",
+      "deviceName": "池家浜桥北",
+      "latitude": "31.166259",
+      "longitude": "120.807142"
+    },
+    {
+      "type": "device",
+      "apeId": "device_112",
+      "deviceName": "医疗卫生站1",
+      "latitude": "31.179461",
+      "longitude": "120.766782"
+    },
+    {
+      "type": "device",
+      "apeId": "device_113",
+      "deviceName": "屯村社区后村",
+      "latitude": "31.15879101",
+      "longitude": "120.755472"
+    },
+    {
+      "type": "device",
+      "apeId": "device_114",
+      "deviceName": "屯村合心村沐庄老村道桥东",
+      "latitude": "31.179691",
+      "longitude": "120.777813"
+    },
+    {
+      "type": "device",
+      "apeId": "device_115",
+      "deviceName": "松汾线、迎燕宾馆",
+      "latitude": "31.15248301",
+      "longitude": "120.7157801"
+    },
+    {
+      "type": "device",
+      "apeId": "device_116",
+      "deviceName": "屯村电力站小区进出口",
+      "latitude": "31.150613",
+      "longitude": "120.765011"
+    },
+    {
+      "type": "device",
+      "apeId": "device_117",
+      "deviceName": "叶建村双庙南令召里桥东监控",
+      "latitude": "31.111751",
+      "longitude": "120.736715"
+    },
+    {
+      "type": "device",
+      "apeId": "device_118",
+      "deviceName": "屯村大桥南小路屯溪卫生中心门口",
+      "latitude": "31.148763",
+      "longitude": "120.762581"
+    },
+    {
+      "type": "device",
+      "apeId": "device_119",
+      "deviceName": "同里镇富土路公交站台南监控",
+      "latitude": "31.157145",
+      "longitude": "120.707937"
+    },
+    {
+      "type": "device",
+      "apeId": "device_120",
+      "deviceName": "吴江区苏同黎公路15公里470米",
+      "latitude": "31.155051",
+      "longitude": "120.753245"
+    },
+    {
+      "type": "device",
+      "apeId": "device_121",
+      "deviceName": "叶建北圩金家坝银杏村北庭交界小路",
+      "latitude": "31.092832",
+      "longitude": "120.722397"
+    },
+    {
+      "type": "device",
+      "apeId": "device_122",
+      "deviceName": "松汾线屯村车站2",
+      "latitude": "31.150244",
+      "longitude": "120.761236"
+    },
+    {
+      "type": "device",
+      "apeId": "device_123",
+      "deviceName": "吴江区同周公路北联农业园路口监控",
+      "latitude": "31.202013",
+      "longitude": "120.747693"
+    },
+    {
+      "type": "device",
+      "apeId": "device_124",
+      "deviceName": "同津大道马港桥南监控",
+      "latitude": "31.199612",
+      "longitude": "120.716612"
+    },
+    {
+      "type": "device",
+      "apeId": "device_125",
+      "deviceName": "中元港桥北监控",
+      "latitude": "31.151108",
+      "longitude": "120.721993"
+    },
+    {
+      "type": "device",
+      "apeId": "device_126",
+      "deviceName": "吴江区同周公路富观路口西侧监控",
+      "latitude": "31.172293",
+      "longitude": "120.718292"
+    },
+    {
+      "type": "device",
+      "apeId": "device_127",
+      "deviceName": "叶建钱阿港入口（老叶建孙家厍桥南）监控",
+      "latitude": "31.103376",
+      "longitude": "120.729431"
+    },
+    {
+      "type": "device",
+      "apeId": "device_128",
+      "deviceName": "屯村北星路一区、二区1",
+      "latitude": "31.156338",
+      "longitude": "120.764161"
+    },
+    {
+      "type": "device",
+      "apeId": "device_129",
+      "deviceName": "浩浪蒲家浜入口无名桥北监控",
+      "latitude": "31.137599",
+      "longitude": "120.735875"
+    },
+    {
+      "type": "device",
+      "apeId": "device_130",
+      "deviceName": "浩浪老浩浪自然村1",
+      "latitude": "31.136565",
+      "longitude": "120.733681"
+    },
+    {
+      "type": "device",
+      "apeId": "device_131",
+      "deviceName": "松汾线周水港底（屯村供电所北）1",
+      "latitude": "31.152264",
+      "longitude": "120.764939"
+    },
+    {
+      "type": "device",
+      "apeId": "device_132",
+      "deviceName": "屯村北星路一区、二区2",
+      "latitude": "31.156338",
+      "longitude": "120.764161"
+    },
+    {
+      "type": "device",
+      "apeId": "device_133",
+      "deviceName": "同里世纪家园路口",
+      "latitude": "31.152762",
+      "longitude": "120.712647"
+    },
+    {
+      "type": "device",
+      "apeId": "device_134",
+      "deviceName": "同里富渔村富渔桥西",
+      "latitude": "31.151225",
+      "longitude": "120.709028"
+    },
+    {
+      "type": "device",
+      "apeId": "device_135",
+      "deviceName": "松北公路6公里950米(朱家浜路口)",
+      "latitude": "31.152846",
+      "longitude": "120.715538"
+    },
+    {
+      "type": "device",
+      "apeId": "device_136",
+      "deviceName": "苏同黎文安入口",
+      "latitude": "31.150078",
+      "longitude": "120.720006"
+    },
+    {
+      "type": "device",
+      "apeId": "device_137",
+      "deviceName": "同里公路长纤路河桥",
+      "latitude": "31.172814",
+      "longitude": "120.701056"
+    },
+    {
+      "type": "device",
+      "apeId": "device_138",
+      "deviceName": "同周公路湘娄入村口",
+      "latitude": "31.174707",
+      "longitude": "120.740111"
+    },
+    {
+      "type": "device",
+      "apeId": "device_139",
+      "deviceName": "同里富土家园西南角监控",
+      "latitude": "31.146462",
+      "longitude": "120.717447"
+    },
+    {
+      "type": "device",
+      "apeId": "device_140",
+      "deviceName": "同里八景苑路口监控",
+      "latitude": "31.151685",
+      "longitude": "120.717086"
+    },
+    {
+      "type": "device",
+      "apeId": "device_141",
+      "deviceName": "同里富渔村路口（长胜路）监控",
+      "latitude": "31.152208",
+      "longitude": "120.709218"
+    },
+    {
+      "type": "device",
+      "apeId": "device_142",
+      "deviceName": "同里八景苑内北监控",
+      "latitude": "31.150934",
+      "longitude": "120.716014"
+    },
+    {
+      "type": "device",
+      "apeId": "device_143",
+      "deviceName": "同里八景苑内南监控",
+      "latitude": "31.150927",
+      "longitude": "120.716185"
+    },
+    {
+      "type": "device",
+      "apeId": "device_144",
+      "deviceName": "韩墅东路、鸭头浜北桥北小路",
+      "latitude": "31.212166",
+      "longitude": "120.772782"
+    },
+    {
+      "type": "device",
+      "apeId": "device_145",
+      "deviceName": "叶建村北圩村庞庞山10号门口小路监控",
+      "latitude": "31.104687",
+      "longitude": "120.730926"
+    },
+    {
+      "type": "device",
+      "apeId": "device_146",
+      "deviceName": "松汾线屯村周水港桥西",
+      "latitude": "31.150204",
+      "longitude": "120.763715"
+    },
+    {
+      "type": "device",
+      "apeId": "device_147",
+      "deviceName": "松汾线屯村周水港桥东",
+      "latitude": "31.150231",
+      "longitude": "120.764162"
+    },
+    {
+      "type": "device",
+      "apeId": "device_148",
+      "deviceName": "松汾线原金水浴场利用",
+      "latitude": "31.150292",
+      "longitude": "120.764783"
+    },
+    {
+      "type": "device",
+      "apeId": "device_149",
+      "deviceName": "后村西浜南路口2",
+      "latitude": "31.165424",
+      "longitude": "120.759488"
+    },
+    {
+      "type": "device",
+      "apeId": "device_150",
+      "deviceName": "夏具浜杨家浜娄村南",
+      "latitude": "31.172118",
+      "longitude": "120.757903"
+    },
+    {
+      "type": "device",
+      "apeId": "device_151",
+      "deviceName": "同里镇迎燕桥东监控2",
+      "latitude": "31.154441",
+      "longitude": "120.713711"
+    },
+    {
+      "type": "device",
+      "apeId": "device_152",
+      "deviceName": "松汾线屯村大桥南桥底下2",
+      "latitude": "31.152184",
+      "longitude": "120.762286"
+    },
+    {
+      "type": "device",
+      "apeId": "device_153",
+      "deviceName": "田厍苏同黎松汾线华夏厂大门旁监控3",
+      "latitude": "31.147571",
+      "longitude": "120.771547"
+    },
+    {
+      "type": "device",
+      "apeId": "device_154",
+      "deviceName": "吴江区同周公路同里湖桥东侧监控",
+      "latitude": "31.159857",
+      "longitude": "120.722526"
+    },
+    {
+      "type": "device",
+      "apeId": "device_155",
+      "deviceName": "邱舍路与老村道北三叉口监控",
+      "latitude": "31.135634",
+      "longitude": "120.788308"
+    },
+    {
+      "type": "device",
+      "apeId": "device_156",
+      "deviceName": "三港村朱家浜席厂三叉口（叶石娄）",
+      "latitude": "31.188351",
+      "longitude": "120.756416"
+    },
+    {
+      "type": "device",
+      "apeId": "device_157",
+      "deviceName": "苏同黎蛇洞浜桥北西入口（蛇洞浜自然村）",
+      "latitude": "31.185529",
+      "longitude": "120.758795"
+    },
+    {
+      "type": "device",
+      "apeId": "device_158",
+      "deviceName": "北联西操桥南东",
+      "latitude": "31.213501",
+      "longitude": "120.755166"
+    },
+    {
+      "type": "device",
+      "apeId": "device_159",
+      "deviceName": "湿地公园北入口",
+      "latitude": "31.169816",
+      "longitude": "120.810533"
+    },
+    {
+      "type": "device",
+      "apeId": "device_160",
+      "deviceName": "同里镇政府南监控",
+      "latitude": "31.150931",
+      "longitude": "120.718039"
+    },
+    {
+      "type": "device",
+      "apeId": "device_161",
+      "deviceName": "屯村镇邱舍屯南南浜路口2",
+      "latitude": "31.133347",
+      "longitude": "120.782825"
+    },
+    {
+      "type": "device",
+      "apeId": "device_162",
+      "deviceName": "松汾线富土路路口（派出所对面）监控1",
+      "latitude": "31.149971",
+      "longitude": "120.720831"
+    },
+    {
+      "type": "device",
+      "apeId": "device_163",
+      "deviceName": "中国银行东侧弄堂口监控2",
+      "latitude": "31.154173",
+      "longitude": "120.715623"
+    },
+    {
+      "type": "device",
+      "apeId": "device_164",
+      "deviceName": "H03湖南老村道入口监控",
+      "latitude": "31.122247",
+      "longitude": "120.749971"
+    },
+    {
+      "type": "device",
+      "apeId": "device_165",
+      "deviceName": "苏同黎夏具浜入口",
+      "latitude": "31.169345",
+      "longitude": "120.759869"
+    },
+    {
+      "type": "device",
+      "apeId": "device_166",
+      "deviceName": "苏同黎三港村塘娄2",
+      "latitude": "31.170749",
+      "longitude": "120.759641"
+    },
+    {
+      "type": "device",
+      "apeId": "device_167",
+      "deviceName": "夏具浜横娄浜入口",
+      "latitude": "31.169466",
+      "longitude": "120.758225"
+    },
+    {
+      "type": "device",
+      "apeId": "device_168",
+      "deviceName": "福源路东头码头监控3",
+      "latitude": "31.155648",
+      "longitude": "120.725427"
+    },
+    {
+      "type": "device",
+      "apeId": "device_169",
+      "deviceName": "福源路东头码头监控2",
+      "latitude": "31.155682",
+      "longitude": "120.725272"
+    },
+    {
+      "type": "device",
+      "apeId": "device_170",
+      "deviceName": "福源路东头码头监控1",
+      "latitude": "31.155729",
+      "longitude": "120.725251"
+    },
+    {
+      "type": "device",
+      "apeId": "device_171",
+      "deviceName": "吴江区松北公路同里镇中学入口（红绿灯路口）监控2",
+      "latitude": "31.165729",
+      "longitude": "120.713789"
+    },
+    {
+      "type": "device",
+      "apeId": "device_172",
+      "deviceName": "吴江区松北公路同里镇中学入口（红绿灯路口）监控1",
+      "latitude": "31.165631",
+      "longitude": "120.713866"
+    },
+    {
+      "type": "device",
+      "apeId": "device_173",
+      "deviceName": "吴江区松北公路信万科技厂路口监控",
+      "latitude": "31.151131",
+      "longitude": "120.755676"
+    },
+    {
+      "type": "device",
+      "apeId": "device_174",
+      "deviceName": "吴江区松北公路屯村大桥路口（红绿灯）监控",
+      "latitude": "31.150319",
+      "longitude": "120.762424"
+    },
+    {
+      "type": "device",
+      "apeId": "device_175",
+      "deviceName": "方港公交站台2",
+      "latitude": "31.151363",
+      "longitude": "120.754234"
+    },
+    {
+      "type": "device",
+      "apeId": "device_176",
+      "deviceName": "方港公交站台1",
+      "latitude": "31.151363",
+      "longitude": "120.754234"
+    },
+    {
+      "type": "device",
+      "apeId": "device_177",
+      "deviceName": "同里镇政府东监控",
+      "latitude": "31.150889",
+      "longitude": "120.718023"
+    },
+    {
+      "type": "device",
+      "apeId": "device_178",
+      "deviceName": "浩浪新开河桥东监控",
+      "latitude": "31.133339",
+      "longitude": "120.733361"
+    },
+    {
+      "type": "device",
+      "apeId": "device_179",
+      "deviceName": "浩浪直港上监控",
+      "latitude": "31.135588",
+      "longitude": "120.724232"
+    },
+    {
+      "type": "device",
+      "apeId": "device_180",
+      "deviceName": "九里小区东入口监控",
+      "latitude": "31.166922",
+      "longitude": "120.709502"
+    },
+    {
+      "type": "device",
+      "apeId": "device_181",
+      "deviceName": "白蚬湖1组东梅浜三叉口（南）",
+      "latitude": "31.143116",
+      "longitude": "120.802366"
+    },
+    {
+      "type": "device",
+      "apeId": "device_182",
+      "deviceName": "吴江区新大桥路屯溪花园社区监控",
+      "latitude": "31.158367",
+      "longitude": "120.762501"
+    },
+    {
+      "type": "device",
+      "apeId": "device_183",
+      "deviceName": "医疗卫生站2",
+      "latitude": "31.179461",
+      "longitude": "120.766782"
+    },
+    {
+      "type": "device",
+      "apeId": "device_184",
+      "deviceName": "叶建村中令召里监控",
+      "latitude": "31.115431",
+      "longitude": "120.739781"
+    },
+    {
+      "type": "device",
+      "apeId": "device_185",
+      "deviceName": "苏同黎金水塘入口",
+      "latitude": "31.212208",
+      "longitude": "120.760063"
+    },
+    {
+      "type": "device",
+      "apeId": "device_186",
+      "deviceName": "肖甸湖浃港南入口",
+      "latitude": "31.163783",
+      "longitude": "120.787416"
+    },
+    {
+      "type": "device",
+      "apeId": "device_187",
+      "deviceName": "叶建村北圩庞庞山停车场北监控",
+      "latitude": "31.102363",
+      "longitude": "120.731579"
+    },
+    {
+      "type": "device",
+      "apeId": "device_188",
+      "deviceName": "苏同黎洋溢港东路（利用原天网）",
+      "latitude": "31.203873",
+      "longitude": "120.757618"
+    },
+    {
+      "type": "device",
+      "apeId": "device_189",
+      "deviceName": "三港村虹桥围巾东塘娄1",
+      "latitude": "31.170951",
+      "longitude": "120.759496"
+    },
+    {
+      "type": "device",
+      "apeId": "device_190",
+      "deviceName": "吴江同里镇环湖西路同里客运站南侧监控",
+      "latitude": "31.153283",
+      "longitude": "120.723449"
+    },
+    {
+      "type": "device",
+      "apeId": "device_191",
+      "deviceName": "北联村部口西（北联路）",
+      "latitude": "31.207651",
+      "longitude": "120.754783"
+    },
+    {
+      "type": "device",
+      "apeId": "device_192",
+      "deviceName": "北联村部口东（北联路）",
+      "latitude": "31.207651",
+      "longitude": "120.754783"
+    },
+    {
+      "type": "device",
+      "apeId": "device_193",
+      "deviceName": "北联老村道2",
+      "latitude": "31.209744",
+      "longitude": "120.754899"
+    },
+    {
+      "type": "device",
+      "apeId": "device_194",
+      "deviceName": "北联老村道1",
+      "latitude": "31.209766",
+      "longitude": "120.754901"
+    },
+    {
+      "type": "device",
+      "apeId": "device_195",
+      "deviceName": "合心村南严舍10#东",
+      "latitude": "31.178174",
+      "longitude": "120.781091"
+    },
+    {
+      "type": "device",
+      "apeId": "device_196",
+      "deviceName": "屯村一苑入口3",
+      "latitude": "31.156901",
+      "longitude": "120.761921"
+    },
+    {
+      "type": "device",
+      "apeId": "device_197",
+      "deviceName": "屯村一苑入口2",
+      "latitude": "31.156901",
+      "longitude": "120.761921"
+    },
+    {
+      "type": "device",
+      "apeId": "device_198",
+      "deviceName": "屯村一苑入口1",
+      "latitude": "31.156901",
+      "longitude": "120.761921"
+    },
+    {
+      "type": "device",
+      "apeId": "device_199",
+      "deviceName": "吴江区苏同黎公路0公里730米监控",
+      "latitude": "31.212872",
+      "longitude": "120.760185"
+    },
+    {
+      "type": "device",
+      "apeId": "device_200",
+      "deviceName": "富士路碧莲路口监控",
+      "latitude": "31.153211",
+      "longitude": "120.707778"
+    },
+    {
+      "type": "device",
+      "apeId": "device_201",
+      "deviceName": "后浜小学边供销服务社区监控",
+      "latitude": "31.197175",
+      "longitude": "120.700571"
+    },
+    {
+      "type": "device",
+      "apeId": "device_202",
+      "deviceName": "吴江区松北公路12公里760米处监控",
+      "latitude": "31.172338",
+      "longitude": "120.728005"
+    },
+    {
+      "type": "device",
+      "apeId": "device_203",
+      "deviceName": "合心村严舍中桥西2",
+      "latitude": "31.182623",
+      "longitude": "120.782684"
+    },
+    {
+      "type": "device",
+      "apeId": "device_204",
+      "deviceName": "合心村严舍中桥西1",
+      "latitude": "31.182623",
+      "longitude": "120.782684"
+    },
+    {
+      "type": "device",
+      "apeId": "device_205",
+      "deviceName": "屯村合心村委工业区1",
+      "latitude": "31.176228",
+      "longitude": "120.761034"
+    },
+    {
+      "type": "device",
+      "apeId": "device_206",
+      "deviceName": "同里镇中国银行西入口监控",
+      "latitude": "31.154502",
+      "longitude": "120.713762"
+    },
+    {
+      "type": "device",
+      "apeId": "device_207",
+      "deviceName": "同里镇石牌楼南监控",
+      "latitude": "31.153971",
+      "longitude": "120.714283"
+    },
+    {
+      "type": "device",
+      "apeId": "device_208",
+      "deviceName": "同里镇文安10组东路口监控",
+      "latitude": "31.153065",
+      "longitude": "120.715988"
+    },
+    {
+      "type": "device",
+      "apeId": "device_209",
+      "deviceName": "吴江区同里镇环湖西路弯道处（度假村与大饭店间）监控",
+      "latitude": "31.162557",
+      "longitude": "120.722627"
+    },
+    {
+      "type": "device",
+      "apeId": "device_210",
+      "deviceName": "迎燕路文安路农行东监控",
+      "latitude": "31.153893",
+      "longitude": "120.713783"
+    },
+    {
+      "type": "device",
+      "apeId": "device_211",
+      "deviceName": "合心村严舍中桥西南三叉口",
+      "latitude": "31.180084",
+      "longitude": "120.780565"
+    },
+    {
+      "type": "device",
+      "apeId": "device_212",
+      "deviceName": "同里镇迎燕桥东监控1",
+      "latitude": "31.154485",
+      "longitude": "120.713671"
+    },
+    {
+      "type": "device",
+      "apeId": "device_213",
+      "deviceName": "同里镇富土路西北公交站监控",
+      "latitude": "31.157371",
+      "longitude": "120.707651"
+    },
+    {
+      "type": "device",
+      "apeId": "device_214",
+      "deviceName": "吴江区松北公路镇南入口（石牌楼）监控",
+      "latitude": "31.154773",
+      "longitude": "120.713399"
+    },
+    {
+      "type": "device",
+      "apeId": "device_215",
+      "deviceName": "同里镇石牌楼北监控",
+      "latitude": "31.154138",
+      "longitude": "120.714055"
+    },
+    {
+      "type": "device",
+      "apeId": "device_216",
+      "deviceName": "中国银行东侧弄堂口监控1",
+      "latitude": "31.153891",
+      "longitude": "120.714511"
+    },
+    {
+      "type": "device",
+      "apeId": "device_217",
+      "deviceName": "同里镇明景苑路口监控",
+      "latitude": "31.151665",
+      "longitude": "120.717114"
+    },
+    {
+      "type": "device",
+      "apeId": "device_218",
+      "deviceName": "苏同黎公路中尾圩桥北20米路口监控",
+      "latitude": "31.145199",
+      "longitude": "120.744616"
+    },
+    {
+      "type": "device",
+      "apeId": "device_219",
+      "deviceName": "北联1号桥南西",
+      "latitude": "31.205683",
+      "longitude": "120.754783"
+    },
+    {
+      "type": "device",
+      "apeId": "device_220",
+      "deviceName": "北联南娄港桥南西农机站口（西环路北）",
+      "latitude": "31.202016",
+      "longitude": "120.748066"
+    },
+    {
+      "type": "device",
+      "apeId": "device_221",
+      "deviceName": "合心村木梳湾桥北3三叉口",
+      "latitude": "31.181047",
+      "longitude": "120.784439"
+    },
+    {
+      "type": "device",
+      "apeId": "device_222",
+      "deviceName": "屯溪松汾线龙跃公司门口",
+      "latitude": "31.150989",
+      "longitude": "120.758483"
+    },
+    {
+      "type": "device",
+      "apeId": "device_223",
+      "deviceName": "合心村严舍小桥浜三叉口2",
+      "latitude": "31.184423",
+      "longitude": "120.786191"
+    },
+    {
+      "type": "device",
+      "apeId": "device_224",
+      "deviceName": "合心村严舍小桥浜三叉口1",
+      "latitude": "31.184423",
+      "longitude": "120.786191"
+    },
+    {
+      "type": "device",
+      "apeId": "device_225",
+      "deviceName": "松汾线屯村大桥南桥底下1",
+      "latitude": "31.151947",
+      "longitude": "120.762399"
+    },
+    {
+      "type": "device",
+      "apeId": "device_226",
+      "deviceName": "屯村合心村委工业区2",
+      "latitude": "31.176228",
+      "longitude": "120.761034"
+    },
+    {
+      "type": "device",
+      "apeId": "device_227",
+      "deviceName": "吴江区松北公路屯村美欣厂东侧299路灯处监控",
+      "latitude": "31.151007",
+      "longitude": "120.756462"
+    },
+    {
+      "type": "device",
+      "apeId": "device_228",
+      "deviceName": "吴江区苏同黎公路06公里310米监控",
+      "latitude": "31.157788",
+      "longitude": "120.755431"
+    },
+    {
+      "type": "device",
+      "apeId": "device_229",
+      "deviceName": "吴江区同周公路与苏青路交叉路口监控",
+      "latitude": "31.158857",
+      "longitude": "120.784215"
+    },
+    {
+      "type": "device",
+      "apeId": "device_230",
+      "deviceName": "屯村小学门口",
+      "latitude": "31.154282",
+      "longitude": "120.761259"
+    },
+    {
+      "type": "device",
+      "apeId": "device_231",
+      "deviceName": "屯村屯溪小区",
+      "latitude": "31.160935",
+      "longitude": "120.759652"
+    },
+    {
+      "type": "device",
+      "apeId": "device_232",
+      "deviceName": "同里新菜场东北角",
+      "latitude": "31.148086",
+      "longitude": "120.722999"
+    },
+    {
+      "type": "device",
+      "apeId": "device_233",
+      "deviceName": "松汾线迎燕桥西",
+      "latitude": "31.155742",
+      "longitude": "120.710659"
+    },
+    {
+      "type": "device",
+      "apeId": "device_234",
+      "deviceName": "松汾线与良德路口",
+      "latitude": "31.143261",
+      "longitude": "120.775654"
+    },
+    {
+      "type": "device",
+      "apeId": "device_235",
+      "deviceName": "同里景区警务室",
+      "latitude": "0",
+      "longitude": "0"
+    },
+    {
+      "type": "device",
+      "apeId": "device_236",
+      "deviceName": "3205845345吴江经济技术开发区同成宾馆（尚客优快捷酒店）人证核验",
+      "latitude": "31.154105",
+      "longitude": "120.722137"
+    },
+    {
+      "type": "device",
+      "apeId": "device_237",
+      "deviceName": "3205845299吴江经济技术开发区听雨轩宾馆人证核验",
+      "latitude": "31.156489",
+      "longitude": "120.722259"
+    }
+  ],
+  "公安_人员卡口": []
+}

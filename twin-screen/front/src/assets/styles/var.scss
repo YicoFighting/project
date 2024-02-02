@@ -1,0 +1,22 @@
+// 重点区域
+@mixin center($align: center, $justify: center) {
+  display: flex;
+  align-items: $align;
+  justify-content: $justify;
+}
+
+@mixin fontGradient(
+  $color: #87b5ff,
+  $background: linear-gradient(180deg, #e5efff 0%, #97bfff 100%),
+  $font-size: 14px,
+  $font-family: PingFangSC-Regular PingFang SC,
+  $font-weight: 400
+) {
+  color: $color;
+  background: $background;
+  font-size: $font-size;
+  font-family: $font-family;
+  font-weight: $font-weight;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

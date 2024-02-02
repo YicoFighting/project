@@ -1,0 +1,90 @@
+html,
+body,
+#app {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  // font-size: 12px;
+  overflow: hidden;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+}
+
+html:not(.dark) {
+  // 主字体色
+  --text-color: rgba(43, 78, 255, 1);
+  // 主背景色
+  --background-color: rgba(43, 78, 255, 0.2);
+  // 灰色北京
+  --primary-bg-color: #f4f5fa;
+  // 菜单激活字体颜色
+  --el-menu-active-color: var(--text-color);
+  // 菜单hover背景色
+  --el-menu-hover-bg-color: rgba(43, 78, 255, 0.1);
+  // 菜单激活背景色
+  --el-menu-active-bg-color: var(--background-color);
+}
+
+html.dark {
+  --el-menu-active-color: #fff;
+  --el-menu-hover-bg-color: #ccc;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track-piece {
+  background: rgba(34, 118, 128, 0.2);
+  border-radius: 20px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #99a9bf;
+  border-radius: 20px;
+}
+
+::-webkit-scrollbar-thumb:vertical {
+  height: 6px;
+}
+
+::-webkit-scrollbar-thumb:horizontal {
+  width: 8px;
+}
+
+// antv-x6
+.cu-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.cu-container-title {
+  color: #000;
+}
+.cu-container-img {
+  width: 53px;
+  height: 53px;
+  margin-bottom: 9px;
+}
+.cu-container-desc {
+  // color: rgba(211, 230, 243, 0.7);
+  color: #000;
+  margin-top: 3px;
+}
+.cu-container-title,
+.cu-container-desc {
+  max-width: 100px;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  overflow: hidden;
+}

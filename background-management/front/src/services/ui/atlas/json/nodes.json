@@ -1,0 +1,50 @@
+[
+    {
+        "id": "node_123456",
+        "name": "node_123456",
+        "cname": "刘文伟",
+        "pointType": "people",
+        "pointId": "123456",
+        "label": {
+            "backgroundColor": {
+                "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAfCAYAAAAfrhY5AAAAAXNSR0IArs4c6QAAAiZJREFUWEftlM1rE1EUxc95qW0yk5R8qCCCVVN1puAHov+A/hHqwmU3Lt0oiAFbF7px6aZLF+r/IK4FRfyAzqhVVBDEMk0xmTbW9l2ZNH4gIe9NUwhiZ3vPnN+95737iAF+HCAbW/CBpP9vxT7XaOz8nlk5T8EZAfwkMgKBEPe3rQ3fGS8UvtjGmGryN63F6qrWDyGypyuA/Dik1KkD2eJbmwas4bP1+hiH9XsbU1lReydKpQ8mrTU8XFq4ISKXTIbtYyBvek75sklrDQ/iKIlyv8mwU3/nu5WqSZsGvgwgazJcr0vLd7fnTFp7eDMKQHgmw3U2Qj9faW9Cr88aHsbRVQGmTIad1at5bmXapLWGz8bzu0g1B4FjGGcpq0eq+/L5z5sGT4xCmS/IcuYpRMa7G8scHTnucUfDBO4kZCP7rXkURaOlnDqtRV+A4GS7QjxWVLclV3zgkVZga7iIZF636lNa60mIugV3aMbnaPRn24F8rSBenQT1RQU1c9Ap1Uiu9X3hgmZ0F8TZn0YkvwHyBGDnFZMxAU9AZOQXjLznO+VzG4aLCF+1Fq+I1sab2w1CqNohp3idpHSv92gtaC4cBuVFulvxl1p4xM+XX6aHx9E1ALV+4KIxPVGodPXouedhHD0T4Gg/cILPPbd8LPXkYRwlL9puIQoQyQJKEdKzYUFyvlqDbFGQrN0nz93A5P1MbPOv9fNqY5ZWswVPm9im6P/f2H8ArlayID8hMkYAAAAASUVORK5CYII="
+            }
+        }
+    },
+    {
+        "id": "plateNo_苏123456",
+        "name": "plateNo_苏123456",
+        "cname": "苏123456",
+        "pointType": "car",
+        "pointId": "苏123456",
+        "label": {
+            "backgroundColor": {
+                "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAfCAYAAAAfrhY5AAAAAXNSR0IArs4c6QAAAqVJREFUWEftlU1rE1EUht93JrFmJrZ2RhTcqC21uXTpTorgom66EEqlP8CdC/FnuFf3bgQ3oiB+4MKNXytBEJK0ad20oNDMFGwmJU3nHrmTFgTTZKYpFKFndblzzn3Oeeece4kjNB4hG8fwI1H//5B9qVVX8Y71BMQUxPSKEKRZUERMESTNNr4z1guTw2eq/eRMVfnrWm3o0nlvhRbeQlsvgRiALQIRIBaBLbbB2pA4ljmCN7Tzc2KKU9u9EkgFL0frsxTrnir6M/2qMd+rzfC96PZ9VTz3bmB4JQrWcifytybyw1/SwJe2Nq7FWj9Wrj92GPDNkuMNk5Q0cBGxqlvhb+X4xYHh5SjYgMZDi5KHZZnzqCGkTi4pItmyCOhkTwNiEbdLrj8yELzcCJ6SWEhT8T8+xHPl+HP7xfZsuGpUvyngiwOB94Jozyvn9LNuZ/SEl6PgA4FpklqLaAK5lIm0zSyafwHgk3L96czwSiMIQHi2yAxyuR+x1lWI5Hcbz4y5JH/ezLgZ+Q5M54jxGLwgIh8Bhsr1/OzwKDC3iaVcP1GoEgVvSo43a5TodphJpdoMTaVXd/1NRlq5vlGhS0v00LESBU0AhV+Ol79O7lSi8KtyvSu9pC9H9WXl+BNlIG81wxaIpnJ8Nzu8UV8EeZnkN0CWRTAvkBWS7b1mETNqxnRy158AcBHgK4iMgyhBsKiKfikzvBqFjwRyJ2WTdXcjHyjHu5sZXpPaUNz0I4F5N7IbwXjSGS0YpTLDO00TtgAxch7E2sr1943t+6r9Dadlj9k7dmMTDbhFV7Bp8mlAnyrurgErt31SC9c6mbKtXG8QeNACkMy2VxgdOUs2eknweXW1MOo7653ZT+Defv59Kz+I1mljjuFplTpUv2PZD1XOtIf9AX81BC8CFaX4AAAAAElFTkSuQmCC"
+            }
+        }
+    },
+    {
+        "id": "node_321",
+        "name": "node_321",
+        "cname": "王俊",
+        "pointType": "people",
+        "pointId": "321",
+        "label": {
+            "backgroundColor": {
+                "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAfCAYAAAAfrhY5AAAAAXNSR0IArs4c6QAAAiZJREFUWEftlM1rE1EUxc95qW0yk5R8qCCCVVN1puAHov+A/hHqwmU3Lt0oiAFbF7px6aZLF+r/IK4FRfyAzqhVVBDEMk0xmTbW9l2ZNH4gIe9NUwhiZ3vPnN+95737iAF+HCAbW/CBpP9vxT7XaOz8nlk5T8EZAfwkMgKBEPe3rQ3fGS8UvtjGmGryN63F6qrWDyGypyuA/Dik1KkD2eJbmwas4bP1+hiH9XsbU1lReydKpQ8mrTU8XFq4ISKXTIbtYyBvek75sklrDQ/iKIlyv8mwU3/nu5WqSZsGvgwgazJcr0vLd7fnTFp7eDMKQHgmw3U2Qj9faW9Cr88aHsbRVQGmTIad1at5bmXapLWGz8bzu0g1B4FjGGcpq0eq+/L5z5sGT4xCmS/IcuYpRMa7G8scHTnucUfDBO4kZCP7rXkURaOlnDqtRV+A4GS7QjxWVLclV3zgkVZga7iIZF636lNa60mIugV3aMbnaPRn24F8rSBenQT1RQU1c9Ap1Uiu9X3hgmZ0F8TZn0YkvwHyBGDnFZMxAU9AZOQXjLznO+VzG4aLCF+1Fq+I1sab2w1CqNohp3idpHSv92gtaC4cBuVFulvxl1p4xM+XX6aHx9E1ALV+4KIxPVGodPXouedhHD0T4Gg/cILPPbd8LPXkYRwlL9puIQoQyQJKEdKzYUFyvlqDbFGQrN0nz93A5P1MbPOv9fNqY5ZWswVPm9im6P/f2H8ArlayID8hMkYAAAAASUVORK5CYII="
+            }
+        }
+    },
+    {
+        "id": "ajNo_123456",
+        "name": "ajNo_123456",
+        "cname": "涉黄",
+        "pointType": "case",
+        "pointId": "123456",
+        "label": {
+            "backgroundColor": {
+                "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAfCAYAAAAfrhY5AAAAAXNSR0IArs4c6QAAAbtJREFUWEftlrFLG2EYxp/nEgzmLMEkgo4uzd3SvUuXDF0ENxf/ghQK4upQBQsuUigdHLt1KIVC1w51dipoYqn/QCt3OnhazF0eMUFBjXd88ZN0yK33vd/ve573ufc7YogPh8jGCD4U9/9v25snwTsSS4NYQ+hMyr3yJyY/9qvPVC4pf3AePgXMwxknzksqWffcatEY3oqCNxTqxqodtOOks14Yc/7GMXZ9t9JXZKryVhS0AeSN4ZcFxKd8Dm8fAtdA4Es28TmXw5oVuICY4E9SnasDSbdzIA/gRFe4LTjJjqAFv1j5kuZE8yT4TvYyYg0O4o9frExntWA/Co8FlazCCSRE/nnNLe2kHaB1Gm5DemEV3gUKIYmvgHPd8zsHoeqSZu3DgQBEmKJ8BkI3bNbhDvm6Vix/uA/+Wyq0o3DjahTbC1x3ZmjLc6uN1J5Hh3OA8826coINzy1vpQcu2ISwbB0OoAnp8D44yRLIZ5Kcx4BnfeY33vd6PrYax+d7g14sD5rttfHy4q9/R++98XLfrGTdaqsC5o0k90brKZLOiv9k6kdabebPhCnYZP0IbuKWtbUj261ZabLRBftK4SAf8w9eAAAAAElFTkSuQmCC"
+            }
+        }
+    }
+]

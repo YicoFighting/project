@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="43px" height="49px" viewBox="0 0 43 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>地点</title>
+    <defs>
+        <linearGradient x1="50%" y1="112.239468%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#5797FF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M9.50000987,5.23210293 C11.8916559,5.23210293 13.830468,7.19502928 13.830468,9.61642164 C13.830468,12.037814 11.8916559,14.0007404 9.50000987,14.0007404 C7.10836388,14.0007404 5.16955173,12.037814 5.16955173,9.61642164 C5.16955173,7.19502928 7.10836388,5.23210293 9.50000987,5.23210293 Z M19,9.61834796 C19,5.51096451 16.4234613,1.85693159 12.5866439,0.522405009 C8.74982644,-0.812121576 4.49935699,0.467387778 2.00599817,3.70747322 C-0.487360649,6.94755866 -0.673325315,11.4331343 1.54307842,14.8733662 L8.64952007,24.4664713 C8.81045052,24.7933829 9.1401841,25 9.50096121,25 C9.86173832,25 10.1914719,24.7933829 10.3524024,24.4664713 L17.4721626,14.8733662 C18.4311041,13.3592737 19,11.5600849 19,9.61834796 L19,9.61834796 Z" id="path-2"></path>
+        <filter x="-100.0%" y="-68.0%" width="300.0%" height="252.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.401834032   0 0 0 0 0.60234026   0 0 0 0 1  0 0 0 0.348646471 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.000896394757   0 0 0 0 0.121055835   0 0 0 0 0.324083853  0 0 0 0.693030724 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="地址、时间条" transform="translate(-12.000000, -44.000000)" fill-rule="nonzero">
+            <g id="编组-2" transform="translate(24.000000, 49.762226)">
+                <g id="形状" transform="translate(0.000000, 4.237774)">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

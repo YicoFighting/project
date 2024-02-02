@@ -1,0 +1,73 @@
+{
+  "code": 0,
+  "data": {
+    "deviceCount": [
+      {
+        "deviceTypeName": "门禁设备",
+        "iconName": "icon_mjsb",
+        "offline": 2,
+        "online": 11,
+        "total": 13,
+        "typeId": 1
+      },
+      {
+        "deviceTypeName": "显示设备",
+        "iconName": "icon_xssb",
+        "offline": 2,
+        "online": 3,
+        "total": 5,
+        "typeId": 2
+      },
+      {
+        "deviceTypeName": "消防设备",
+        "iconName": "icon_xfsb",
+        "offline": 1,
+        "online": 2,
+        "total": 3,
+        "typeId": 3
+      },
+      {
+        "deviceTypeName": "监控设备",
+        "iconName": "icon_jksb",
+        "offline": 4,
+        "online": 21,
+        "total": 25,
+        "typeId": 4
+      },
+      {
+        "deviceTypeName": "周界设备",
+        "iconName": "icon_zjfh",
+        "offline": 3,
+        "online": 20,
+        "total": 23,
+        "typeId": 5
+      },
+      {
+        "deviceTypeName": "防冲撞设备",
+        "iconName": "icon_fczsb",
+        "offline": 4,
+        "online": 18,
+        "total": 22,
+        "typeId": 6
+      },
+      {
+        "deviceTypeName": "访客设备",
+        "iconName": "icon_fksb",
+        "offline": 2,
+        "online": 2,
+        "total": 4,
+        "typeId": 7
+      },
+      {
+        "deviceTypeName": "报警柱设备",
+        "iconName": "icon_bjzsb",
+        "offline": 2,
+        "online": 5,
+        "total": 7,
+        "typeId": 8
+      }
+    ],
+    "percent": "80.00%"
+  },
+  "msg": "ok"
+}

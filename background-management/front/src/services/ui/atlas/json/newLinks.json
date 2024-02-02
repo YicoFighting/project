@@ -1,0 +1,44 @@
+[
+    {
+        "source": "node_321",
+        "target": "node_123456",
+        "label": "",
+        "type": "同行关系",
+        "lineStyle": {}
+    },
+    {
+        "source": "node_321",
+        "target": "node_654321",
+        "label": "",
+        "type": "同行关系",
+        "lineStyle": {}
+    },
+    {
+        "source": "node_321",
+        "target": "node_987",
+        "label": "",
+        "type": "同事关系",
+        "lineStyle": {}
+    },
+    {
+        "source": "node_321",
+        "target": "node_654",
+        "label": "",
+        "type": "同事关系",
+        "lineStyle": {}
+    },
+    {
+        "source": "node_987",
+        "target": "node_654",
+        "label": "",
+        "type": "同事关系",
+        "lineStyle": {}
+    },
+    {
+        "source": "node_321",
+        "target": "node_1234",
+        "label": "",
+        "type": "同行关系",
+        "lineStyle": {}
+    }
+]

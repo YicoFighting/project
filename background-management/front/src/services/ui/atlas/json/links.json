@@ -1,0 +1,26 @@
+[
+    {
+        "source": "node_123456",
+        "target": "plateNo_苏123456",
+        "label": "驾车",
+        "type": "驾车"
+    },
+    {
+        "source": "node_321",
+        "target": "plateNo_苏123456",
+        "label": "乘车",
+        "type": "乘车"
+    },
+    {
+        "source": "ajNo_123456",
+        "target": "node_123456",
+        "label": "嫌疑人",
+        "type": "嫌疑人"
+    },
+    {
+        "source": "ajNo_123456",
+        "target": "node_321",
+        "label": "打处人",
+        "type": "打处人"
+    }
+]

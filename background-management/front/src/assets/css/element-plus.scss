@@ -1,0 +1,96 @@
+/* =====按钮===== */
+.el-button {
+  // width: 84px;
+  height: 36px;
+  line-height: 36px;
+  border-radius: 8px !important;
+  font-size: 14px;
+  font-weight: 400;
+  color: #ffffff;
+}
+/* =====按钮===== */
+
+/* =====菜单===== */
+.el-menu-item.is-active {
+  background: var(--el-menu-active-bg-color);
+}
+/* =====菜单===== */
+
+/* =====表格===== */
+.el-table {
+  background: transparent !important;
+  .el-table__header {
+    th.el-table__cell {
+      background-color: rgba(247, 247, 250, 0.88);
+    }
+    th.el-table__cell.is-leaf {
+      border: unset;
+      font-size: 14px;
+      font-family: PingFangSC-Medium, PingFang SC;
+      font-weight: 500;
+      color: #48494e;
+      padding: 0;
+      height: 56px;
+      line-height: 56px;
+    }
+  }
+  .el-table__body {
+    tbody {
+      .el-table__row:last-of-type {
+        td {
+          border: unset;
+        }
+      }
+    }
+    td.el-table__cell {
+      font-size: 14px;
+      font-family: PingFangSC-Regular, PingFang SC;
+      font-weight: 400;
+      color: #6e7079;
+      padding: 0;
+      height: 56px;
+      line-height: 56px;
+    }
+  }
+  .el-table__inner-wrapper::before {
+    height: 0;
+  }
+  .el-table__body tr:hover > td.el-table__cell .cell {
+    color: #1b1f32;
+    cursor: pointer;
+  }
+}
+
+/* =====表格===== */
+
+/* ======文字提示====== */
+.zy-tooltip {
+  .el-only-child__content {
+    display: block;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+}
+/* ======文字提示====== */
+
+/* ======dialog====== */
+.el-dialog {
+  .el-dialog__header {
+    margin: 0;
+    padding: 10px;
+    .el-dialog__headerbtn {
+      width: 54px;
+      height: 54px;
+    }
+  }
+  .el-dialog__body {
+    padding: 10px;
+  }
+  .el-tabs__item {
+    padding: 0 20px;
+    height: 40px;
+  }
+}
+/* ======dialog====== */

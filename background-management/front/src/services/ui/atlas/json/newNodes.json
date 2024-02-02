@@ -1,0 +1,50 @@
+[
+    {
+        "id": "node_654321",
+        "name": "node_654321",
+        "cname": "元芳",
+        "pointType": "people",
+        "pointId": "654321",
+        "label": {
+            "backgroundColor": {
+                "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAfCAYAAAAfrhY5AAAAAXNSR0IArs4c6QAAAaxJREFUWEftlU9OwkAUxt9rIRRqjE5duHGnaXFhuIJX0MQbiEG9gS71BgpBbmCiV/AI/llAie7cuJAxMRZKgD6DSNJI6UyLCTE4y873vt+8byavCFNcOEU2/MOnkv7fi73u8gOvR2f+uBQVD02NnUeJMFLnN0SJ5SbvhAFeMiy5idiVOYQ0nIjQbnJPxtTKMAURSaSVhtecxhUAbIkMv/evs7qxLdJGgQs78cOyuiH0FgqGhjWnMaNw2+FFAiqI7rG/j4AlS2f7Iq107FN97f0uLonUjRb/IAItqCtEcB/SbG4HsSfqepBQjGW77yb1Ora/FNWkZWnz9Sh20vCq81pEwIKiQN5MG5UgSM1p7ALABQGV1vWl37lz2+G3BJQbASI+fX0jWv25h4D3ls5Ga3xCYedVh58g0FGUOIdaVNRTK71wPK42FP5IlOo2uRsHPKxJZJi2htgOfKBhxvUWL3se5SeBK4AVU2eBHqGdRx2p4w45bs6L4GUEyAHiCgAtAmCqP2zCkhj8SqkNgG9A9EwAd1nd2Isc+yRxy9QKX7uMSVzNPzxuchPVzW7snx75jCDkMpguAAAAAElFTkSuQmCC"
+            }
+        }
+    },
+    {
+        "id": "node_987",
+        "name": "node_987",
+        "cname": "冯慷慨",
+        "pointType": "people",
+        "pointId": "987",
+        "label": {
+            "backgroundColor": {
+                "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAfCAYAAAAfrhY5AAAAAXNSR0IArs4c6QAAAaxJREFUWEftlU9OwkAUxt9rIRRqjE5duHGnaXFhuIJX0MQbiEG9gS71BgpBbmCiV/AI/llAie7cuJAxMRZKgD6DSNJI6UyLCTE4y873vt+8byavCFNcOEU2/MOnkv7fi73u8gOvR2f+uBQVD02NnUeJMFLnN0SJ5SbvhAFeMiy5idiVOYQ0nIjQbnJPxtTKMAURSaSVhtecxhUAbIkMv/evs7qxLdJGgQs78cOyuiH0FgqGhjWnMaNw2+FFAiqI7rG/j4AlS2f7Iq107FN97f0uLonUjRb/IAItqCtEcB/SbG4HsSfqepBQjGW77yb1Ora/FNWkZWnz9Sh20vCq81pEwIKiQN5MG5UgSM1p7ALABQGV1vWl37lz2+G3BJQbASI+fX0jWv25h4D3ls5Ga3xCYedVh58g0FGUOIdaVNRTK71wPK42FP5IlOo2uRsHPKxJZJi2htgOfKBhxvUWL3se5SeBK4AVU2eBHqGdRx2p4w45bs6L4GUEyAHiCgAtAmCqP2zCkhj8SqkNgG9A9EwAd1nd2Isc+yRxy9QKX7uMSVzNPzxuchPVzW7snx75jCDkMpguAAAAAElFTkSuQmCC"
+            }
+        }
+    },
+    {
+        "id": "node_654",
+        "name": "node_654",
+        "cname": "郑启航",
+        "pointType": "people",
+        "pointId": "654",
+        "label": {
+            "backgroundColor": {
+                "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAfCAYAAAAfrhY5AAAAAXNSR0IArs4c6QAAAaxJREFUWEftlU9OwkAUxt9rIRRqjE5duHGnaXFhuIJX0MQbiEG9gS71BgpBbmCiV/AI/llAie7cuJAxMRZKgD6DSNJI6UyLCTE4y873vt+8byavCFNcOEU2/MOnkv7fi73u8gOvR2f+uBQVD02NnUeJMFLnN0SJ5SbvhAFeMiy5idiVOYQ0nIjQbnJPxtTKMAURSaSVhtecxhUAbIkMv/evs7qxLdJGgQs78cOyuiH0FgqGhjWnMaNw2+FFAiqI7rG/j4AlS2f7Iq107FN97f0uLonUjRb/IAItqCtEcB/SbG4HsSfqepBQjGW77yb1Ora/FNWkZWnz9Sh20vCq81pEwIKiQN5MG5UgSM1p7ALABQGV1vWl37lz2+G3BJQbASI+fX0jWv25h4D3ls5Ga3xCYedVh58g0FGUOIdaVNRTK71wPK42FP5IlOo2uRsHPKxJZJi2htgOfKBhxvUWL3se5SeBK4AVU2eBHqGdRx2p4w45bs6L4GUEyAHiCgAtAmCqP2zCkhj8SqkNgG9A9EwAd1nd2Isc+yRxy9QKX7uMSVzNPzxuchPVzW7snx75jCDkMpguAAAAAElFTkSuQmCC"
+            }
+        }
+    },
+    {
+        "id": "node_1234",
+        "name": "node_1234",
+        "cname": "王盛",
+        "pointType": "people",
+        "pointId": "1234",
+        "label": {
+            "backgroundColor": {
+                "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAfCAYAAAAfrhY5AAAAAXNSR0IArs4c6QAAAaxJREFUWEftlU9OwkAUxt9rIRRqjE5duHGnaXFhuIJX0MQbiEG9gS71BgpBbmCiV/AI/llAie7cuJAxMRZKgD6DSNJI6UyLCTE4y873vt+8byavCFNcOEU2/MOnkv7fi73u8gOvR2f+uBQVD02NnUeJMFLnN0SJ5SbvhAFeMiy5idiVOYQ0nIjQbnJPxtTKMAURSaSVhtecxhUAbIkMv/evs7qxLdJGgQs78cOyuiH0FgqGhjWnMaNw2+FFAiqI7rG/j4AlS2f7Iq107FN97f0uLonUjRb/IAItqCtEcB/SbG4HsSfqepBQjGW77yb1Ora/FNWkZWnz9Sh20vCq81pEwIKiQN5MG5UgSM1p7ALABQGV1vWl37lz2+G3BJQbASI+fX0jWv25h4D3ls5Ga3xCYedVh58g0FGUOIdaVNRTK71wPK42FP5IlOo2uRsHPKxJZJi2htgOfKBhxvUWL3se5SeBK4AVU2eBHqGdRx2p4w45bs6L4GUEyAHiCgAtAmCqP2zCkhj8SqkNgG9A9EwAd1nd2Isc+yRxy9QKX7uMSVzNPzxuchPVzW7snx75jCDkMpguAAAAAElFTkSuQmCC"
+            }
+        }
+    }
+]

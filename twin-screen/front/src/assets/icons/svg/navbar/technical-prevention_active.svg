@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="73px" height="73px" viewBox="0 0 73 73" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 16</title>
+    <defs>
+        <linearGradient x1="50%" y1="50%" x2="50%" y2="88.6644653%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#CCE0FF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M47.07909,28.5724013 L36.1246162,33.131475 L25.14663,28.5724013 L36.1011037,24.24375 L47.0814413,28.5724013 L47.07909,28.5724013 Z M24.24375,30.4675087 L35.17236,35.1300375 L35.17236,47.75625 L32.4660713,46.5265463 C30.5469658,45.6764282 28.6252013,44.8323253 26.7008063,43.99425 C26.33166,43.8226087 25.9954313,43.5945375 25.6991737,43.3147388 C25.403746,43.0398147 25.1424491,42.7303634 24.92091,42.3930487 C24.7050835,42.0636346 24.535763,41.7060042 24.4177425,41.3302838 C24.3055045,40.9725315 24.2468708,40.6001286 24.24375,40.2251962 L24.24375,30.4675087 Z M47.75625,30.4675087 L47.75625,40.17582 C47.75625,40.617855 47.671605,41.050485 47.5046663,41.4690075 C47.3400787,41.8851788 47.126115,42.2801888 46.8651262,42.6446325 C46.6162869,43.0022386 46.3267057,43.3296942 46.0022175,43.6204012 C45.7200675,43.8766875 45.4097025,44.0953538 45.0734737,44.2716975 L42.291945,45.4496738 C41.3994203,45.8281268 40.5059425,46.204328 39.61152,46.5782737 C38.6780737,46.9779862 37.7422762,47.3729962 36.8017762,47.75625 L36.8017762,35.1300375 L47.75625,30.4651575 L47.75625,30.4675087 Z" id="path-2"></path>
+        <filter x="-146.7%" y="-146.7%" width="393.5%" height="393.5%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="11.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.408898628   0 0 0 0 0.579440933   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.243921494   0 0 0 0 0.470365024   0 0 0 0 1  0 0 0 0.584626311 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter3"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter3" result="shadowBlurOuter3"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.708479021 0" type="matrix" in="shadowBlurOuter3" result="shadowMatrixOuter3"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter3"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="技防社区" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-660.000000, -142.000000)">
+            <g id="编组-16" transform="translate(660.989692, 142.500000)">
+                <rect id="矩形" x="0" y="0" width="72" height="72"></rect>
+                <g id="形状" fill-rule="nonzero">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
