@@ -1,0 +1,107 @@
+// src\pages.json
+{
+  // 组件自动导入
+  "easycom": {
+    "autoscan": true,
+    "custom": {
+      // uni-ui 规则如下配置
+      "^uni-(.*)": "@dcloudio/uni-ui/lib/uni-$1/uni-$1.vue"
+    }
+  },
+  "pages": [
+    //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+    {
+      "path": "pages/home/index",
+      "style": {
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/building/index",
+      "style": {
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/news/index",
+      "style": {
+        "navigationStyle": "custom"
+        // "navigationBarTitleText": "访客预约"
+      }
+    },
+    {
+      "path": "pages/pr/index",
+      "style": {
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/admin/index",
+      "style": {
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/about/index",
+      "style": {
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/guide/index",
+      "style": {
+        "navigationStyle": "custom"
+      }
+    }
+  ],
+  // 设置 TabBar
+  "tabBar": {
+    "custom": true,
+    "color": "#272727",
+    "selectedColor": "#3c56e3",
+    "backgroundColor": "#efefef",
+    "borderStyle": "white",
+    "list": [
+      {
+        "pagePath": "pages/home/index",
+        "selectedIconPath": "static/images/tab-bars/home-active.png",
+        "iconPath": "static/images/tab-bars/home.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/building/index",
+        "selectedIconPath": "static/images/tab-bars/building-active.png",
+        "iconPath": "static/images/tab-bars/building.png",
+        "text": "大厦导览"
+      },
+      // {
+      //   "pagePath": "pages/news/index",
+      //   "selectedIconPath": "static/images/tab-bars/message-active.png",
+      //   "iconPath": "static/images/tab-bars/message.png",
+      //   "text": "立即预约"
+      // },
+      {
+        "pagePath": "pages/pr/index",
+        "selectedIconPath": "static/images/tab-bars/pr-active.png",
+        "iconPath": "static/images/tab-bars/pr.png",
+        "text": "产品中心"
+      },
+      {
+        "pagePath": "pages/admin/index",
+        "selectedIconPath": "static/images/tab-bars/admin-active.png",
+        "iconPath": "static/images/tab-bars/admin.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "globalStyle": {
+    "scrollIndicator": "none",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "数智罗盘",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#FFFFFF",
+    "app-plus": {
+      "scrollIndicator": "none"
+    }
+  }
+}

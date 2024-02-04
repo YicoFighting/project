@@ -1,0 +1,42 @@
+{
+  "name": "end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@koa/cors": "^4.0.0",
+    "@koa/multer": "^3.0.2",
+    "cheerio": "^1.0.0-rc.12",
+    "crypto-js": "^4.1.1",
+    "download": "^8.0.0",
+    "ejs": "^3.1.8",
+    "jsonwebtoken": "^8.5.1",
+    "jsrsasign": "^10.6.0",
+    "koa": "^2.13.4",
+    "koa-body": "^6.0.1",
+    "koa-bodyparser": "^4.3.0",
+    "koa-log4": "^2.3.2",
+    "koa-router": "^12.0.0",
+    "koa-static": "^5.0.0",
+    "multer": "^1.4.5-lts.1",
+    "node-ip2region": "^1.0.2",
+    "node-jsencrypt": "^1.0.0",
+    "node-schedule": "^2.1.0",
+    "node-xlsx": "^0.21.0",
+    "qrcode": "^1.5.1",
+    "redis": "3.1.2",
+    "superagent": "^8.0.3",
+    "superagent-charset": "^1.2.0",
+    "text-to-svg": "^3.1.5",
+    "ws": "^8.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}

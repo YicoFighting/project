@@ -1,0 +1,44 @@
+@import './antd.less';
+@import './font.less';
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body,
+#app {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+/* 表格 */
+.ant-table-tbody > tr > td {
+  color: #b4b9ba !important;
+  font-family: 'HeTianYanZhongWan-2';
+}
+
+/* 滚动条样式  */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track-piece {
+  background-color: rgba(255, 255, 255, 0.2);
+  border-radius: 7px;
+}
+
+::-webkit-scrollbar-thumb:vertical {
+  height: 6px;
+  background-color: #2ddcff;
+  border-radius: 7px;
+}
+
+::-webkit-scrollbar-thumb:horizontal {
+  width: 6px;
+  background-color: #2ddcff;
+  border-radius: 7px;
+}
